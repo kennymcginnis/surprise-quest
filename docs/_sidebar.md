@@ -1,4 +1,4 @@
 - [Home](README.md)
 - Meeting records
-  - [Nov 15 meeting transcript](nov-15-meeting-transcript.md)
-  - [Sep 20th mtg minutes](Sep%2020th%20mtg%20minutes.md)
+  - [Nov 15 meeting minutes](nov-15-meeting-minutes.md)
+  - [Sep 20 meeting minutes](sep-20-meeting-minutes.md)
